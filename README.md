@@ -2,3 +2,5 @@
 ---
 ```hello world```
 
+this repo ignored logs files. and folders.
+
